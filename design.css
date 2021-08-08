@@ -2,12 +2,13 @@ body {
     background-color: lightgrey;
     display: grid;
     grid-template-rows: 5% 90% 5%;
-
+    padding:0;
+    margin:0;
   }
 
 .header {
     background-color:dimgrey;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    
+
 }
