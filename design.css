@@ -14,6 +14,13 @@ body {
     color:antiquewhite;
 }
 
+.content{
+    grid-template-columns: 95% 5%;
+
+
+
+}
+
 .footer {
     background-color:dimgrey;
 }
@@ -35,6 +42,7 @@ body {
 
 
 .socialMediaLink {
+    grid-template-rows: 25% 25% 25% 25%;
 
 
 }
