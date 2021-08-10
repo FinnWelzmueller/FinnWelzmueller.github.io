@@ -44,7 +44,7 @@ body {
 .socialMediaBoard{
     display: grid;
     grid-template-rows: 5% 10% 10% 10% 10% 10% 10% 35%;
-    text-align: right;
+    text-align: center;
 }
 .socialMediaLink {
     color: mediumseagreen;
