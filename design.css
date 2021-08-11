@@ -43,7 +43,7 @@ body {
 
 .socialMediaBoard{
     display: grid;
-    grid-template-rows: 5% 10% 10% 10% 10% 10% 10% 35%;
+    grid-template-rows: 5% 10% 10% 10% 10% 10% 10% 10% 25%;
     text-align: center;
 }
 .socialMediaLink {
