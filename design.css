@@ -45,8 +45,6 @@ body {
     display: grid;
     grid-template-rows: 5% 10% 10% 10% 10% 10% 10% 10% 10% 15%;
     text-align: center;
-    border-color: royalblue;
-    border-width:3px;
 }
 .socialMediaLink {
     color: royalblue;
