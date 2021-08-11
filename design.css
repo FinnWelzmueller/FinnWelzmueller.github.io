@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: white;
     display: grid;
     grid-template-rows: 10% 85% 70% 5%;
     padding:0;
@@ -11,7 +11,7 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     font-family: "copperplate", fantasy, sans-serif;
-    color:antiquewhite;
+    color:royalblue;
 }
 
 .content{
@@ -34,7 +34,7 @@ body {
     display: inline-block;
     width: 100%;
     height: 100%;
-    color:antiquewhite;
+    color:royalblue;
 }
 .button:hover {
     background-color:rgb(70, 70, 70);
