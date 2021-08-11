@@ -6,8 +6,8 @@ body {
     margin:0;
   }
 
-.header {
-    background-color:dimgrey;
+.navbar {
+    background-color:whitesmoke;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     font-family: "copperplate", fantasy, sans-serif;
