@@ -49,7 +49,7 @@ body {
 .socialMediaLink {
     color: royalblue;
     font-size: 30pt;
-    transition: all .2s ease-in-out;
+    transition: transform .2s;
 }
     
 .socialMediaLink:hover { 
