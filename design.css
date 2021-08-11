@@ -47,6 +47,7 @@ body {
     text-align: center;
 }
 .socialMediaLink {
+    display: grid;
     color: royalblue;
     font-size: 30pt;
     transition: transform .2s;
